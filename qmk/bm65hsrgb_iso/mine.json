@@ -67,7 +67,7 @@
       "KC_UP",
       "KC_INS",
       "KC_LCTL",
-      "LT(0,KC_LGUI)",
+      "LT(1,KC_LGUI)",
       "KC_LALT",
       "KC_SPC",
       "KC_RALT",
